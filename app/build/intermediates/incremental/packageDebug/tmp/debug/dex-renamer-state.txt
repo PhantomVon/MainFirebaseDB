@@ -1,0 +1,4 @@
+#Thu Apr 20 11:59:14 EAT 2023
+base.0=/home/emobilis/Downloads/FirebaseDB-master/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

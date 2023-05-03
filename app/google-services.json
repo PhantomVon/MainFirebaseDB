@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38948902528",
+    "project_id": "mid-mrng-app",
+    "storage_bucket": "mid-mrng-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38948902528:android:00b46c485de94727463865",
+        "android_client_info": {
+          "package_name": "com.example.midmorningfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38948902528-5oh65k6fhng72iraflphfb1di4dan3tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxua56_GWr0H7cIGSaV-0n16c5TDVqSe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38948902528-5oh65k6fhng72iraflphfb1di4dan3tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
